@@ -3,4 +3,3 @@ pink
 green
 yellow
 blue
-purple
