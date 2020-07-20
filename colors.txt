@@ -1,4 +1,8 @@
 red
 black
 green
-yellow
+blue
+pink
+orange
+###brown
+
